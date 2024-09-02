@@ -1,0 +1,10 @@
+.App{
+  position: relative;
+  overflow-x: clip;
+  background-color: white;
+}
+.App>:nth-child(1)
+{
+  background: var(--black);
+  position: relative;
+}
