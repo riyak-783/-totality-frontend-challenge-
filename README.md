@@ -1,7 +1,9 @@
-
 # Estate Properties Website
 
 This is a modern web application built with React, Vite, and Framer Motion, designed to showcase estate properties.
+
+## Live Link:
+https://estate-rentproperty.netlify.app/
 
 ## Features
 
